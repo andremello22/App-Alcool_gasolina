@@ -1,0 +1,7 @@
+{
+  "name": "gasolina-alcool",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
